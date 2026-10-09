@@ -66,13 +66,6 @@ I'm an **Electrical Engineer with 3+ years of experience in industrial automatio
 
 ## 📂 Featured Projects
 
-### ☀️ PV System Optimization Performance Study
-*Graduation Project — Birzeit University*
-
-A study and calculator tool for the optimal placement of photovoltaic panels.
-- Analyzed PV panel placement in the northern hemisphere to maximize output while minimizing shading
-- Developed design recommendations for optimal panel orientation based on project location
-- Built an **automatic calculator** that takes a project's location as input and outputs the best panel orientation
 
 ### 🌐 Full Stack Bootcamp Projects
 *Axsos Academy*
