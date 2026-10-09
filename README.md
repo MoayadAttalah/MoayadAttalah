@@ -112,9 +112,9 @@ Solo and group web applications built with Python, Django, MySQL, and JavaScript
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/2EA44F/YOUR_GITHUB_USERNAME" alt="Contribution Chart" width="100%"/>
-</p>
+</p> -->
 
 ---
 
